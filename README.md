@@ -5,4 +5,4 @@ Link para descargar CV
 <!--
 PNG del CV
 -->
-![My Resume](Resume/Resume.png)
+![My Resume](Resume/Resume.jpg)
