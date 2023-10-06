@@ -1,7 +1,7 @@
 <!--
 Link para descargar CV
 -->
-### [⬇📄 Get my Resume](Resume/Resume-David-Emmanuel-Nicolas-Castañeda.pdf)
+### [⬇📄 Get my Resume](https://github.com/DavidENicolasC/DavidENicolasC/raw/main/Resume.pdf)
 <!--
 PNG del CV
 -->
