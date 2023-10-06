@@ -1,7 +1,7 @@
 <!--
 Link para descargar CV
 -->
-### [⬇📄 Get my Resume](https://github.com/DavidENicolasC/DavidENicolasC/raw/main/Resume.pdf)
+### [⬇📄 Get my Resume](https://github.com/DavidENicolasC/DavidENicolasC/raw/main/Resume/Resume.pdf)
 <!--
 PNG del CV
 -->
